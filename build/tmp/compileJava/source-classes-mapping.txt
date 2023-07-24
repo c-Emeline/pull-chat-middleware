@@ -1,0 +1,10 @@
+msgapplication/MsgApplication.java
+ msgapplication.MsgApplication
+dialogue/Dialogue.java
+ dialogue.Dialogue
+dialogue/DialogueImpl.java
+ dialogue.DialogueImpl
+dialogue/Client.java
+ dialogue.Client
+dialogue/Server.java
+ dialogue.Server
